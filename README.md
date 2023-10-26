@@ -30,8 +30,8 @@ http://localhost:8000/news
 This will display the aggregated climate news articles from the predefined sources.
 
 ## Endpoints
-/: Welcome message
-/news: Returns the aggregated climate news articles
+- /: Welcome message
+- /news: Returns the aggregated climate news articles
 
 ## Built With
 - Express - Web application framework for Node.js
