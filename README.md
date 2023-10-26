@@ -1,5 +1,5 @@
 # Climate News API
-A simple API built with Express, Axios, and Cheerio to fetch and aggregate news articles related to climate change from various sources.
+This is a simple API built with Express, Axios, and Cheerio to fetch and aggregate news articles related to climate change from various sources. I built this API to consolidate my current understanding of APIs and to learn more about APIs.
 
 ## Features
 - Aggregates climate news articles from:
